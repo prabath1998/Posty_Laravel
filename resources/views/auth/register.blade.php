@@ -69,7 +69,7 @@
 
             <div>
                 <button type="submit"
-                    class="bg-blue-500 text-white px-4 py-3 rounded font-medium w-full hover:bg-blue-600">Register</button>
+                    class="bg-green-400 text-white px-4 py-3 rounded font-medium w-full hover:bg-green-500">Register</button>
             </div>
         </form>
     </div>
