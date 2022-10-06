@@ -47,7 +47,7 @@
 
             <div>
                 <button type="submit"
-                    class="bg-green-400 text-white px-4 py-3 rounded font-medium w-full hover:bg-grren-500">Login</button>
+                    class="bg-green-400 text-white px-4 py-3 rounded font-medium w-full hover:bg-green-500">Login</button>
             </div>
         </form>
     </div>
